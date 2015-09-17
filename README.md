@@ -21,6 +21,7 @@ Pour intégrer l'utilitaire dans une nouvelle feuille de calcul :
 4. "Modules complémentaires" > "SpreadsheetToDoc" > "Rows to Docs"
 5. l'export crée un dossier portant le nom du spreadsheet, et contenant les fichiers doc générés. 
 
-Deux scripts sont dispo : 
+Ttrois scripts sont dispo : 
 - un export standard indépendant de l'ordre des colonnes
-- un export spécial candidature, qui récupère des données précises à partir de l'index de certaines colones ( prénom, nom, mail, téléphone ). Le nom est le prénom sont notamment utilisés pour le nom du doc.
+- un export spécial candidature, qui récupère des données précises à partir de l'index de certaines colonnes ( prénom, nom, mail, téléphone ). Le nom et le prénom sont notamment utilisés pour le nom du doc.
+- un calcul de la moyenne d'âge des candidats ( le résultat est visible dans les logs )
