@@ -18,4 +18,4 @@ Pour intégrer l'utilitaire dans une nouvelle feuille de calcul :
 
 3. Recharger le doc
 
-4. "Modules complémentaires" > "SpreadsheetToDoc" > "Export multi docs"
+4. "Modules complémentaires" > "SpreadsheetToDoc" > "Rows to Docs"
